@@ -55,8 +55,6 @@ Meaning of the arguments:
 ### Citation 
 
 
-
-
 If you find this repository to be useful for your research, please consider citing.
 <pre>
 @inproceedings{chen-etal-2022-expose,
@@ -76,6 +74,10 @@ If you find this repository to be useful for your research, please consider citi
 }
 </pre>
 
+
+### Acknowledgement
+
+This repository relies on resources from [Embedding-Poisoning](https://github.com/lancopku/Embedding-Poisoning), [RAP](https://github.com/lancopku/RAP), [NeuBA](https://github.com/thunlp/NeuBA/tree/main/nlp), [BadPre](https://github.com/kangjie-chen/BadPre), and [Huggingface Transformers](https://github.com/huggingface/transformers). We thank the original authors for their open-sourcing.
 
 
 
